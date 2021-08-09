@@ -27,6 +27,7 @@ fetchHTTP("https://yikuansun.github.io/3db/models.json").then(function(data) {
         var galleryItem = gallery[i];
         var thumb = new Image();
         thumb.src = galleryItem.thumbnail.url;
+        thumb.alt = `${galleryItem.modelname} by ${galleryItem.authorname}`;
         thumb.style.width = "100%";
         rowElement.appendChild(thumb);
     }
