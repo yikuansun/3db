@@ -3,50 +3,50 @@
     "modelname": "sian",
     "authorname": "Lucas",
     "thumbnail": {
-      "url": "data/models/sian/thumbnail.jpg"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/sian/thumbnail.jpg"
     },
     "model": {
-      "url": "data/models/sian/model.glb"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/sian/model.glb"
     }
   },
   {
     "modelname": 2,
     "authorname": 2,
     "thumbnail": {
-      "url": "data/models/2/thumbnail.png"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/2/thumbnail.png"
     },
     "model": {
-      "url": "data/models/2/model.glb"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/2/model.glb"
     }
   },
   {
     "modelname": "Photopea",
     "authorname": "3D name Photopeq",
     "thumbnail": {
-      "url": "data/models/Photopea/thumbnail.png"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Photopea/thumbnail.png"
     },
     "model": {
-      "url": "data/models/Photopea/model.glb"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Photopea/model.glb"
     }
   },
   {
     "modelname": 18,
     "authorname": 18,
     "thumbnail": {
-      "url": "data/models/18/thumbnail.png"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/18/thumbnail.png"
     },
     "model": {
-      "url": "data/models/18/model.stl"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/18/model.stl"
     }
   },
   {
     "modelname": "Avocado",
     "authorname": "Khronos Group",
     "thumbnail": {
-      "url": "data/models/Avocado/thumbnail.jpeg"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Avocado/thumbnail.jpeg"
     },
     "model": {
-      "url": "data/models/Avocado/model.glb"
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Avocado/model.glb"
     }
   }
 ]
