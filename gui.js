@@ -29,6 +29,15 @@ fetchHTTP("https://yikuansun.github.io/3db/models.json").then(function(data) {
         thumb.src = galleryItem.thumbnail.url;
         thumb.alt = `${galleryItem.modelname} by ${galleryItem.authorname}`;
         thumb.style.width = "100%";
+        thumb.style.cursor = "pointer";
+        thumb.addEventListener("click", new Function(`
+            var a = document.createElement("a");
+            a.href = "${galleryItem.model.url}";
+            a.download = "${galleryItem.modelname} by ${galleryItem.authorname}";
+            a.target = "_blank";
+            a.click();
+            a.remove();
+        `));
         rowElement.appendChild(thumb);
     }
 });
