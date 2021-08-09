@@ -17,7 +17,7 @@ fetchHTTP("https://yikuansun.github.io/3db/models.json").then(function(data) {
     var gallery = JSON.parse(data);
     var wrapper = document.querySelector("#gallery");
     wrapper.className = "row";
-    const colheight = 2;
+    const colheight = 1;
     for (var i = 0; i < gallery.length; i++) {
         if (i % colheight == 0) {
             var rowElement = document.createElement("div");
