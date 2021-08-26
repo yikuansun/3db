@@ -1,5 +1,15 @@
 [
   {
+    "modelname": "Astronaut",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Astronaut/thumbnail.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Astronaut/model.glb"
+    }
+  },
+  {
     "modelname": "sian",
     "authorname": "Lucas",
     "thumbnail": {
