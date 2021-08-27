@@ -1,5 +1,15 @@
 [
   {
+    "modelname": "Chair",
+    "authorname": "redmin",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Chair/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Chair/model.glb%20стул"
+    }
+  },
+  {
     "modelname": "Astronaut",
     "authorname": "Khronos Group",
     "thumbnail": {
