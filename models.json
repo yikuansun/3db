@@ -1,5 +1,15 @@
 [
   {
+    "modelname": "Helmet",
+    "authorname": "Nicolas",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Helmet/thumb.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Helmet/model.glb"
+    }
+  },
+  {
     "modelname": "Chair",
     "authorname": "redmin",
     "thumbnail": {
