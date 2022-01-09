@@ -1,5 +1,115 @@
 [
   {
+    "modelname": "Antique Camera",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Antique Camera/thumbnail.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Antique Camera/model.glb"
+    }
+  },
+  {
+    "modelname": "Barramundi Fish",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Barramundi Fish/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Barramundi Fish/model.glb"
+    }
+  },
+  {
+    "modelname": "Boom Box",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Boom Box/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Boom Box/model.glb"
+    }
+  },
+  {
+    "modelname": "Damaged Helmet",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Damaged Helmet/thumbnail.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Khronos Group/model.glb"
+    }
+  },
+  {
+    "modelname": "Fox",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Fox/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Fox/model.glb"
+    }
+  },
+  {
+    "modelname": "Glam Velvet Sofa",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Glam Velvet Sofa/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Glam Velvet Sofa/model.glb"
+    }
+  },
+  {
+    "modelname": "Iridescent Dish With Olives",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Iridescent Dish With Olives/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Iridescent Dish With Olives/model.glb"
+    }
+  },
+  {
+    "modelname": "Lantern",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Lantern/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Lantern/model.glb"
+    }
+  },
+  {
+    "modelname": "Materials Variants Shoe",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Materials Variants Shoe/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Materials Variants Shoe/model.glb"
+    }
+  },
+  {
+    "modelname": "Rubber Ducky",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Rubber Ducky/thumbnail.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Rubber Ducky/model.glb"
+    }
+  },
+  {
+    "modelname": "Sheen Chair",
+    "authorname": "Khronos Group",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Sheen Chair/thumbnail.jpg"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Sheen Chair/model.glb"
+    }
+  },
+  {
     "modelname": "Helmet",
     "authorname": "Nicolas",
     "thumbnail": {
