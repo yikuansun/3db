@@ -1,5 +1,15 @@
 [
   {
+    "modelname": "Albro",
+    "authorname": "Albert",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Albro/thumbnail.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/Albro/model.glb"
+    }
+  },
+  {
     "modelname": "Antique Camera",
     "authorname": "Khronos Group",
     "thumbnail": {
