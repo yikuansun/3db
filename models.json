@@ -1,5 +1,15 @@
 [
   {
+    "modelname": "pencil",
+    "authorname": "Meallan",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/pencil/thumb.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/pencil/model.glb"
+    }
+  },
+  {
     "modelname": "Albro",
     "authorname": "Albert",
     "thumbnail": {
