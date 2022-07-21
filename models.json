@@ -1,5 +1,15 @@
 [
   {
+    "modelname": "3D MOON",
+    "authorname": "KurdoHarki",
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/3D MOON/thumbnail.png"
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/yikuansun/3db/master/models/3D MOON/model.glb"
+    }
+  },
+  {
     "modelname": "pencil",
     "authorname": "Meallan",
     "thumbnail": {
